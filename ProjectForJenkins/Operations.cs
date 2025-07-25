@@ -11,6 +11,8 @@ namespace ProjectForJenkins
 
         public void Addition()
         {
+            int p, q, r;
+
             int a = 10, b = 40, c;
             c = a + b;
             Console.WriteLine("Addition = " + c);
