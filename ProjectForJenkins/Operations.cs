@@ -15,7 +15,7 @@ namespace ProjectForJenkins
 
             int a = 10, b = 40, c;
             c = a + b
-            Console.Writeline("Addition = " + c);
+            Console.Writeline("Addition = " + c)
         }
     }
 }
